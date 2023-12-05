@@ -1,0 +1,14 @@
+C:\Users\Barba\LPO\asum\bin\Debug\net7.0\asum.exe
+C:\Users\Barba\LPO\asum\bin\Debug\net7.0\asum.deps.json
+C:\Users\Barba\LPO\asum\bin\Debug\net7.0\asum.runtimeconfig.json
+C:\Users\Barba\LPO\asum\bin\Debug\net7.0\asum.dll
+C:\Users\Barba\LPO\asum\bin\Debug\net7.0\asum.pdb
+C:\Users\Barba\LPO\asum\obj\Debug\net7.0\asum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barba\LPO\asum\obj\Debug\net7.0\asum.AssemblyInfoInputs.cache
+C:\Users\Barba\LPO\asum\obj\Debug\net7.0\asum.AssemblyInfo.cs
+C:\Users\Barba\LPO\asum\obj\Debug\net7.0\asum.csproj.CoreCompileInputs.cache
+C:\Users\Barba\LPO\asum\obj\Debug\net7.0\asum.dll
+C:\Users\Barba\LPO\asum\obj\Debug\net7.0\refint\asum.dll
+C:\Users\Barba\LPO\asum\obj\Debug\net7.0\asum.pdb
+C:\Users\Barba\LPO\asum\obj\Debug\net7.0\asum.genruntimeconfig.cache
+C:\Users\Barba\LPO\asum\obj\Debug\net7.0\ref\asum.dll
